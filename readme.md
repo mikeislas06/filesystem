@@ -32,6 +32,6 @@ Este ejercicio consistirá en crear 3 funciones, una función leerá el archivo,
 
 El repositorio con el código se encuentra en el siguiente enlace:
 
-[https://gitlab.com/academlo-nodejs-gen-feb-2021/primer-ejercicio](https://gitlab.com/academlo-nodejs-gen-feb-2021/primer-ejercicio)
+[https://gitlab.com/academlo-full-stack-jun21-node/ejercicio-filesystem](https://gitlab.com/academlo-full-stack-jun21-node/ejercicio-filesystem)
 
 Filesystem promises [https://www.notion.so/M-dulos-JS-Moderno-1f1ca3bfd5a04a60ba7b47c23a6c51e5](https://www.notion.so/M-dulos-JS-Moderno-1f1ca3bfd5a04a60ba7b47c23a6c51e5)
