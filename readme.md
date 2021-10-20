@@ -13,13 +13,13 @@ Este ejercicio consistirá en crear 3 funciones, una función leerá el archivo,
 }
 ```
 
-- [ ]  Clonar el repositorio en tu equipo.
-- [ ]  Instalar las dependencias con `**npm install**` .
-- [ ]  Escribir tu código en el archivo **`index.js`**.
-- [ ]  Completar la lógica de la función `**getUsers**` para leer y regresar el arreglo de usuarios.
-- [ ]  Completar la lógica de la función **`addUser`** para leer, agregar un usuario en el arreglo y escribirlo en el archivo **users.json**.
-- [ ]  Completar la lógica de la función **`clearUsers`** para eliminar los usuarios del arreglo.
-- [ ]  Correr y pasar las pruebas con **`npm test`.**
+- [x] Clonar el repositorio en tu equipo.
+- [x] Instalar las dependencias con `**npm install**` .
+- [x] Escribir tu código en el archivo **`index.js`**.
+- [x] Completar la lógica de la función `**getUsers**` para leer y regresar el arreglo de usuarios.
+- [x] Completar la lógica de la función **`addUser`** para leer, agregar un usuario en el arreglo y escribirlo en el archivo **users.json**.
+- [x] Completar la lógica de la función **`clearUsers`** para eliminar los usuarios del arreglo.
+- [ ] Correr y pasar las pruebas con **`npm test`.**
 
 ## Notas
 
